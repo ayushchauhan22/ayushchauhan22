@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayush chauhan</h1>
 <h3 align="center">A passionate Frontend Developer who loves building smooth, interactive, and scalable web applications.</h3>
 
-- 🔭 I’m currently working on [Basserah](https://github.com/ayushchauhan22/Basserah)
+- 🔭 I’m currently working on [Chat Application](https://github.com/ayushchauhan22/chatApplication)
 
 - 🌱 I’m currently learning **Frameworks, courses, modern frontend tools**
 
-- 🔭 In progress [Assignment-Approval-System](https://github.com/ayushchauhan22/Assignment-Approval-System)
+- 🔭 In progress [Assignment-Approval-System](https://github.com/ayushchauhan22/Assignment-Approval-System)[, Basserah](https://github.com/ayushchauhan22/Basserah)
 
 - 🚀 Projects [Donate_Life](https://github.com/ayushchauhan22/Donate_Life)
 
